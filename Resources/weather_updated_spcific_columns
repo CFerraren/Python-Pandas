@@ -1,0 +1,19 @@
+day,city,wind_speed
+10/5/18,Los Angeles,23.0
+10/6/18,Los Angeles,28.0
+10/7/18,Los Angeles,27.0
+10/5/18,Santa Monica,27.0
+10/6/18,Santa Monica,23.0
+10/7/18,Santa Monica,28.0
+10/5/18,Glendale,27.0
+10/6/18,Glendale,27.0
+10/7/18,Glendale,27.0
+10/10/18,Los Angeles,27.5
+10/11/18,Los Angeles,27.73333333
+10/12/18,Los Angeles,27.96666667
+10/10/18,Santa Monica,28.2
+10/11/18,Santa Monica,28.43333333
+10/12/18,Santa Monica,28.66666667
+10/10/18,Glendale,28.9
+10/11/18,Glendale,29.13333333
+10/12/18,Glendale,29.36666667
