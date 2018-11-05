@@ -17,3 +17,4 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Filling NA Values
 *  Imputing Missing Values for Time Series Data
 *  Interpolate Method of Imputing Missing Data
+*  Stacking and Unstacking Data from Excel File
