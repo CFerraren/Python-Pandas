@@ -21,3 +21,4 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Stacking and Unstacking Data - 3 Levels
 *  Applying Crosstab to Data
 *  Apply Pivot Method to Data
+*  Apply Pivot Table and how it differs from Pivot Method
