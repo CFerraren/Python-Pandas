@@ -24,3 +24,4 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Apply Pivot Table and how it differs from Pivot Method
 *  Pivot Table and Grouper Function
 *  Saving to CSV File
+*  Saving to Excel and Multi-worksheets to a File
