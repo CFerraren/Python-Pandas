@@ -19,3 +19,4 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Interpolate Method of Imputing Missing Data
 *  Stacking and Unstacking Data from Excel File
 *  Stacking and Unstacking Data - 3 Levels
+*  Applying Crosstab to Data
