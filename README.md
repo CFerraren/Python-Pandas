@@ -16,3 +16,4 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Melt Function to Munge Data
 *  Filling NA Values
 *  Imputing Missing Values for Time Series Data
+*  Interpolate Method of Imputing Missing Data
