@@ -12,5 +12,7 @@ Pandas functions that are useful for munging data in preparation for analysis.
 *  Droping Columns and Rows in Dataframe
 *  Sorting Series and Dataframe
 *  Filtering Series and Dataframe
+*  Merging Dataframe
+*  Melt Function to Munge Data
 
 
